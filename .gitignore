@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+.env
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Otros archivos que no quieres seguir
+.DS_Store
+
